@@ -1,0 +1,307 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "27",
+        "son_category": [
+            {
+                "title": "banner",
+                "url": "",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "695",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "屁屁护理",
+                        "url": "http://m.mia.com/special/module/index/13048/wap/",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p5/2016/11/14/b1/0f/b10fe8d8e21f7e80b164c4ec8b3f066c092816180.jpg",
+                        "tags_id": "21",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "屁屁护理",
+                "url": "",
+                "type": "defined",
+                "categorys": [
+                    {
+                        "p_id": "696",
+                        "c_id": "1",
+                        "c_type": "brand",
+                        "c_name": "merries 花王",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/1_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "697",
+                        "c_id": "8",
+                        "c_type": "brand",
+                        "c_name": "moony 尤妮佳",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/8_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "698",
+                        "c_id": "182",
+                        "c_type": "brand",
+                        "c_name": "GOON 大王 天使",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/182_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "699",
+                        "c_id": "181",
+                        "c_type": "brand",
+                        "c_name": "GOON 大王 维E",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/181_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1317",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "好奇 HUGGIES 铂金装",
+                        "url": "http://m.mia.com/s/b1206.html",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/2016/06/01/cd/25/cd259b7e75a7f0d04cb1371fca865e49737218336.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1318",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "好奇 HUGGIES 金装",
+                        "url": "http://m.mia.com/s/b525.html",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/2016/06/01/fd/14/fd1443c6b60b2cc42e8afe2d2e2331db737753315.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1309",
+                        "c_id": "2931",
+                        "c_type": "brand",
+                        "c_name": "好奇 HUGGIES 银装",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/brand/2931_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "702",
+                        "c_id": "1008",
+                        "c_type": "brand",
+                        "c_name": "Huggies 好奇",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/1008_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1311",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "帮宝适 德国紫帮",
+                        "url": "http://m.mia.com/s/b1009.html",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/2016/06/01/f8/6a/f86aff45a76e21f1a2d01cdf7c26fb70692924294.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1316",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "帮宝适 特级棉柔",
+                        "url": "http://m.mia.com/s/b425.html",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/2016/06/01/6b/e0/6be01bd0a1cd5cf31b556356e2757ebb732848487.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1314",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "帮宝适 日本紫帮",
+                        "url": "http://m.mia.com/s/b3634.html",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/2016/06/01/d0/a0/d0a001fb4a2873e04cb166bb169ddc89707277260.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1315",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "帮宝适 超薄干爽",
+                        "url": "http://m.mia.com/s/b1208.html",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/2016/06/01/49/3f/493f5b8484804aff0163b76c87cab892732042044.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "706",
+                        "c_id": "1357",
+                        "c_type": "brand",
+                        "c_name": "Mamypoko 妈咪宝贝",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p1/brand/1357_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "707",
+                        "c_id": "88",
+                        "c_type": "brand",
+                        "c_name": "Libero 丽贝乐",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/88_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "708",
+                        "c_id": "53",
+                        "c_type": "brand",
+                        "c_name": "BAMBO 班博",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/53_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "710",
+                        "c_id": "1866",
+                        "c_type": "brand",
+                        "c_name": "BioFities爱婴舒坦",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p1/brand/1866_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1614",
+                        "c_id": "762",
+                        "c_type": "brand",
+                        "c_name": "雀氏 Chiaus",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/762_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1608",
+                        "c_id": "5456",
+                        "c_type": "brand",
+                        "c_name": "安儿乐 Anerle",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p5/brand/5456_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1609",
+                        "c_id": "5459",
+                        "c_type": "brand",
+                        "c_name": "一朵 YIDUO",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p5/brand/5459_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1610",
+                        "c_id": "5509",
+                        "c_type": "brand",
+                        "c_name": "菲比 Fitti",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/brand/5509_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1613",
+                        "c_id": "5457",
+                        "c_type": "brand",
+                        "c_name": "家得宝 Homebaby",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/brand/5457_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1612",
+                        "c_id": "5458",
+                        "c_type": "brand",
+                        "c_name": "奇酷 chikool",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p5/brand/5458_band_img.jpg",
+                        "tags_id": "20",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "纸尿裤分类",
+                "url": "",
+                "type": "defined",
+                "categorys": [
+                    {
+                        "p_id": "1474",
+                        "c_id": "18",
+                        "c_type": "category",
+                        "c_name": "纸尿裤",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p1/2015/10/10/29/3b/293b707d1491996b9858d10687a87269.png",
+                        "tags_id": "115",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1475",
+                        "c_id": "16",
+                        "c_type": "category",
+                        "c_name": "拉拉裤",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/2015/10/10/a1/dc/a1dc72366e6a73feb1c45cad3b78c06d.jpg",
+                        "tags_id": "115",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1476",
+                        "c_id": "25",
+                        "c_type": "category",
+                        "c_name": "隔尿垫/布尿裤",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p1/2015/10/10/f5/f8/f5f8580a7defdf849c2baeb6cb8676c3.png",
+                        "tags_id": "115",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1477",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "宝宝湿巾",
+                        "url": null,
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/2015/10/10/d0/d2/d0d246a67fdbdce23df282ad00052354.png",
+                        "tags_id": "115",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

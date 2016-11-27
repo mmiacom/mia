@@ -1,0 +1,210 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "18",
+        "son_category": [
+            {
+                "title": "banner",
+                "url": "",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "1042",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "营养辅食",
+                        "url": "http://m.mia.com/special/module/index/10077/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/11/11/ec/70/ec70452f0e189da1209a6ff49657c24f784968686.jpg",
+                        "tags_id": "51",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "宝宝食品",
+                "url": "",
+                "type": "defined",
+                "categorys": [
+                    {
+                        "p_id": "1499",
+                        "c_id": "10",
+                        "c_type": "category",
+                        "c_name": "果汁/饮品",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/30/77/57/7757a9f88896ff1ea7fdedccee70bc00255984027.jpg?rand=1475225598305",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1500",
+                        "c_id": "11",
+                        "c_type": "category",
+                        "c_name": "糖果/零食",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/30/2a/61/2a61dba3bfd44b87bf4bb75b014aa2c8256137223.jpg?rand=1475225613756",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1501",
+                        "c_id": "2",
+                        "c_type": "category",
+                        "c_name": "面条/粥",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/30/d5/ef/d5ef699c88f85b24462235b479829ce3256303174.jpg?rand=1475225630557",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1502",
+                        "c_id": "277",
+                        "c_type": "category",
+                        "c_name": "米粉",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/30/69/48/6948cc63379e8fd7bcdd4dce4c848b37256465256.jpg?rand=1475225646473",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1503",
+                        "c_id": "3",
+                        "c_type": "category",
+                        "c_name": "果泥/肉泥",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/30/5c/d9/5cd95811a946bb74759e650a14dca8e0256569313.jpg?rand=1475225656807",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1504",
+                        "c_id": "360",
+                        "c_type": "category",
+                        "c_name": "溶豆/泡芙",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/30/41/4c/414c6afff21de58a3709c278c2c584c9256653386.jpg?rand=1475225665261",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1505",
+                        "c_id": "4",
+                        "c_type": "category",
+                        "c_name": "海苔/肉松",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/30/16/10/1610ed20c093e257bc0b12df85f4ac14256827867.jpg?rand=1475225682675",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1506",
+                        "c_id": "5",
+                        "c_type": "category",
+                        "c_name": "鱼肠/肉肠",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/30/ea/5b/ea5bc5d7288b6f5393024113c0748d24256979660.jpg?rand=1475225697607",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1507",
+                        "c_id": "6",
+                        "c_type": "category",
+                        "c_name": "磨牙饼干",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/30/90/ac/90ac53050d25aed9e6d3bed668517834257065298.jpg?rand=1475225707006",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1508",
+                        "c_id": "7",
+                        "c_type": "category",
+                        "c_name": "奶酪/奶制品",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/30/73/8d/738d79e1ea32efa9516aee86fe28e74a257239937.jpg?rand=1475225723658",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "757",
+                        "c_id": "9",
+                        "c_type": "category",
+                        "c_name": "食用油/调味品",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/cd/b6/cdb6f443493daf3983dc00393f56f9c2.jpg",
+                        "tags_id": "26",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "宝宝营养",
+                "url": "",
+                "type": "defined",
+                "categorys": [
+                    {
+                        "p_id": "1509",
+                        "c_id": "29",
+                        "c_type": "category",
+                        "c_name": "钙铁锌",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/30/1f/67/1f6707aa143e559e003e130b1a86b558278074628.jpg?rand=1475227807187",
+                        "tags_id": "25",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "745",
+                        "c_id": "31",
+                        "c_type": "category",
+                        "c_name": "VD/维生素",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/da/c2/dac29afd3ec3629b87589b9d6bd672ae.png",
+                        "tags_id": "25",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "746",
+                        "c_id": "32",
+                        "c_type": "category",
+                        "c_name": "益生菌",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/47/2c/472c4ce6a90ccbdbc60705f692241fea.png",
+                        "tags_id": "25",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "747",
+                        "c_id": "33",
+                        "c_type": "category",
+                        "c_name": "免疫力",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/f7/1a/f71a60c3a28d83d59193827930e5a09f.png",
+                        "tags_id": "25",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "748",
+                        "c_id": "157",
+                        "c_type": "category",
+                        "c_name": "鱼油/DHA",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/ef/58/ef58686d7104c3f42a0aa7511cdf8f6e.png",
+                        "tags_id": "25",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1498",
+                        "c_id": "359",
+                        "c_type": "category",
+                        "c_name": "清火",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/30/57/93/5793276eddb911e526a4e8a30ab5f309257572641.jpg?rand=1475225757773",
+                        "tags_id": "25",
+                        "is_bonded": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+<div class="sort-item">
+	<!--<a href="#">
+		<img ng-src='{{sortpart9Data.categorysInfos.son_category[0].categorys[0].banner_image}}'/>
+	</a>-->
+	<div class="sort-item-demo">
+		{{sortpart9Data.categorysInfos.son_category[0].title}}
+	</div>
+	<div class="sort-item-list">
+		<a ui-sref="sort.part" class="sort-item-listA" ng-repeat="sortpart9 in sortpart9Data.categorysInfos.son_category[0].categorys">
+				<img ng-src='{{sortpart9.banner_image}}'/>
+				<span>{{sortpart9.c_name}}</span>
+		</a>
+		
+	</div>
+	<div class="sort-item-demo">
+		{{sortpart9Data.categorysInfos.son_category[1].title}}
+	</div>
+	<div class="sort-item-list">
+		<a ui-sref="sort.part" class="sort-item-listA" ng-repeat="sortpart9 in sortpart9Data.categorysInfos.son_category[1].categorys">
+				<img ng-src="{{sortpart9.banner_image}}"/>
+				<span>{{sortpart9.c_name}}</span>
+		</a>
+
+	</div>
+	
+</div>
+

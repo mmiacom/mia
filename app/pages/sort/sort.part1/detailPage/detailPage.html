@@ -1,0 +1,34 @@
+<div class="sort-part">
+	<div class="sort-part-search">
+		<img src="app/images/icon_back.png" alt="">
+		<form>
+			<input type="text"  placeholder="请输入关键字"/>
+		</form>
+		<img src="app/images/icon_home.png" alt="">
+	</div>
+	<div class="sort-part-main">
+		<div class="sort-part-main-list">
+			<a href="#">综合排序</a>
+			<a href="#">销量优先</a>
+			<a href="#">价格</a>
+			<a href="#"><span></span>有货</a>
+		</div>
+		<div class="sort-part-goods">
+			<div class="sort-part-goods-list" ng-repeat="x in detailData">
+				<a href="/item-1029393.html" target="_blank" title="">
+					<img ng-src="{{x.m_search_pic}}"/>
+					<div class="sort-part-goods-con">
+						<div class="sort-part-goods-title">{{x.brand_name+x.name}}</div>
+						<div class="sort-part-goods-price">
+							<p>￥{{x.sale_price}}<span>￥{{x.market_price}}</span></p>
+							<img ng-src="http://img.miyabaobei.com/d1/p4/2016/08/31/6d/cf/6dcf559a589a36349e2ffbd42aa5fa15125791630.png"/>
+						</div>
+					</div>
+				</a>
+			</div>
+			
+		</div>
+	</div>
+	
+	
+</div>

@@ -1,0 +1,123 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "10",
+        "son_category": [
+            {
+                "title": "出行",
+                "url": "",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "1127",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "出行",
+                        "url": "http://m.mia.com/special/module/index/834/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/11/11/d7/6b/d76bc4f609e46d890491bd57a296e668786478882.jpg",
+                        "tags_id": "76",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "出行装备",
+                "url": "",
+                "type": "defined",
+                "categorys": [
+                    {
+                        "p_id": "849",
+                        "c_id": "109",
+                        "c_type": "category",
+                        "c_name": "安全座椅",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/93/bb/93bb9c386d4590d987d93fba083273fc.png",
+                        "tags_id": "36",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "925",
+                        "c_id": "233",
+                        "c_type": "category",
+                        "c_name": "推车/伞车",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/12/b0/5c/b05c2a5d1ada14cfd1c1783f75715e7e.jpg",
+                        "tags_id": "36",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1570",
+                        "c_id": "234",
+                        "c_type": "category",
+                        "c_name": "三轮车",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/21/3c/9e/3c9ebfffa207ba9ea1074015c78e3c4b190506522.jpg?rand=1477019052961",
+                        "tags_id": "36",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1571",
+                        "c_id": "230",
+                        "c_type": "category",
+                        "c_name": "电动车",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/21/bd/86/bd8632fb5767eaa5e9816378bf7774db191384855.jpg?rand=1477019140542",
+                        "tags_id": "36",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1572",
+                        "c_id": "235",
+                        "c_type": "category",
+                        "c_name": "滑板车",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/21/dc/de/dcdeb49bbe94dfa692d618228cf8ae8d191269461.jpg?rand=1477019128992",
+                        "tags_id": "36",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1573",
+                        "c_id": "245",
+                        "c_type": "category",
+                        "c_name": "自行车",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/21/68/f4/68f43ae4d872baa2b4255f3233a82ead191146055.jpg?rand=1477019116392",
+                        "tags_id": "36",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1569",
+                        "c_id": "114",
+                        "c_type": "category",
+                        "c_name": "出行箱包",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/10/21/f8/a6/f8a6ff1215b4220277e1b93a1cc8cfb9190831724.jpg?rand=1477019085943",
+                        "tags_id": "36",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1568",
+                        "c_id": "115",
+                        "c_type": "category",
+                        "c_name": "腰凳背带",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/21/6d/32/6d329e296067a010acd675a1c71be45e190948596.jpg?rand=1477019096442",
+                        "tags_id": "36",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1574",
+                        "c_id": "116",
+                        "c_type": "category",
+                        "c_name": "出行配件",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/10/21/73/45/73456bba0a8abd512cf7e88eef9dcd79190687845.jpg?rand=1477019070544",
+                        "tags_id": "36",
+                        "is_bonded": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}

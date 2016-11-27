@@ -1,0 +1,118 @@
+.sort{
+	display: none;
+}
+ .sort-part-search{
+	width: 100%;
+	height: 1.166666rem;
+	background: #ff4d8e;
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.sort-part-search img{
+	width: 0.555555rem;
+	height: 0.555555rem;
+}
+.sort-part-search form{
+	width:7.814814rem;
+	height: 0.944444rem;
+	border-radius: 5px;
+	background: white;
+}
+.sort-part-search form input{
+	width: 7.255555rem;
+	height: 0.648148rem;
+	border: none;
+	display: block;
+	margin: 0.12rem auto;
+	font-size: 0.388888rem;
+}
+.sort-part-main{
+	width: 100%;
+	
+}
+.sort-part-main .sort-part-main-list{
+	width: 100%;
+	height: 1rem;
+	margin-top: 1.20rem;
+	display: flex;
+}
+.sort-part-main .sort-part-main-list a{
+	width:25%;
+	text-align: center;
+	font-size: 0.37037rem;
+	line-height: 1rem;
+	color: #666;
+	border-right: 2px solid #ececec;
+}
+.sort-part-main .sort-part-goods{
+	padding: 2% 2%;
+	width: 100%;
+	background: #ececec;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-left: -0.2rem;
+	margin-bottom: 1.462963rem;
+}
+.sort-part-main .sort-part-goods .sort-part-goods-list{
+	width: 47%;
+	height: 7.2rem;
+	margin-bottom: 0.2rem;
+
+}
+.sort-part-main .sort-part-goods .sort-part-goods-list a{
+	width: 100%;
+	height: 7.2rem;
+	display: flex;
+	align-items: space-around;
+	background: white;
+	flex-flow: column;
+}
+.sort-part-main .sort-part-goods .sort-part-goods-list  a>img{
+	width: 100%;
+	height: 5rem;
+}
+.sort-part-main .sort-part-goods .sort-part-goods-list  a .sort-part-goods-con{
+	width: 100%;
+	height: 2.2rem;
+	font-size: 0.37037rem;
+	color: #666;
+	display: flex;
+	flex-flow: column;
+	
+}
+.sort-part-main .sort-part-goods .sort-part-goods-con .sort-part-goods-title{
+	width: 90%;
+	height: 1.5rem;
+	margin: 0 auto;
+	font-size:0.314814rem;
+	line-height: 0.455555rem;
+}
+.sort-part-main .sort-part-goods .sort-part-goods-con .sort-part-goods-price{
+	width: 100%;
+	font-size: 0.462962rem;
+	font-weight: bold;
+	color: red;
+	position: relative;
+}
+.sort-part-main .sort-part-goods .sort-part-goods-con .sort-part-goods-price span{
+	font-size: 0.314814rem;
+	color: #666;
+	text-decoration: line-through;
+	font-weight: normal;
+	text-align: center;
+}
+.sort-part-main .sort-part-goods .sort-part-goods-con .sort-part-goods-price p{
+	padding-left: 5%;	
+}
+.sort-part-main .sort-part-goods .sort-part-goods-con .sort-part-goods-price img{
+	width: 1rem;
+	height: 1rem;
+	position: absolute;
+	top:-0.35rem;
+	right:0.4rem;
+}

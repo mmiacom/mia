@@ -1,0 +1,1315 @@
+{
+    "code": 1,
+    "msg": "",
+    "data": [
+        {
+            "id": "1076408",
+            "isp": "1",
+            "sp": "299.00",
+            "category_id": "13",
+            "mp": "516.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.8",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 150
+        },
+        {
+            "id": "1076409",
+            "isp": "1",
+            "sp": "299.00",
+            "category_id": "13",
+            "mp": "516.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.8",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 150
+        },
+        {
+            "id": "1076410",
+            "isp": "1",
+            "sp": "319.00",
+            "category_id": "13",
+            "mp": "516.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.2",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 160
+        },
+        {
+            "id": "1076411",
+            "isp": "1",
+            "sp": "309.00",
+            "category_id": "13",
+            "mp": "516.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.0",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 155
+        },
+        {
+            "id": "1076412",
+            "isp": "1",
+            "sp": "255.00",
+            "category_id": "13",
+            "mp": "516.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "4.9",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 128
+        },
+        {
+            "id": "1076413",
+            "isp": "1",
+            "sp": "255.00",
+            "category_id": "13",
+            "mp": "516.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "4.9",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 128
+        },
+        {
+            "id": "1076417",
+            "isp": "1",
+            "sp": "278.00",
+            "category_id": "13",
+            "mp": "376.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.4",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 139
+        },
+        {
+            "id": "1076418",
+            "isp": "1",
+            "sp": "289.00",
+            "category_id": "13",
+            "mp": "376.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.7",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 145
+        },
+        {
+            "id": "1076419",
+            "isp": "1",
+            "sp": "268.00",
+            "category_id": "13",
+            "mp": "376.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.1",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 134
+        },
+        {
+            "id": "1076423",
+            "isp": "1",
+            "sp": "245.00",
+            "category_id": "13",
+            "mp": "376.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 123
+        },
+        {
+            "id": "1076430",
+            "isp": "1",
+            "sp": "285.00",
+            "category_id": "13",
+            "mp": "398.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.2",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 143
+        },
+        {
+            "id": "1076431",
+            "isp": "1",
+            "sp": "298.00",
+            "category_id": "13",
+            "mp": "398.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 149
+        },
+        {
+            "id": "1076432",
+            "isp": "1",
+            "sp": "309.00",
+            "category_id": "13",
+            "mp": "398.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.8",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 155
+        },
+        {
+            "id": "1076433",
+            "isp": "1",
+            "sp": "309.00",
+            "category_id": "13",
+            "mp": "398.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.8",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 155
+        },
+        {
+            "id": "1076434",
+            "isp": "1",
+            "sp": "309.00",
+            "category_id": "13",
+            "mp": "398.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.8",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 155
+        },
+        {
+            "id": "1076444",
+            "isp": "1",
+            "sp": "220.00",
+            "category_id": "13",
+            "mp": "398.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 110
+        },
+        {
+            "id": "1076445",
+            "isp": "1",
+            "sp": "220.00",
+            "category_id": "13",
+            "mp": "398.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 110
+        },
+        {
+            "id": "1076454",
+            "isp": "1",
+            "sp": "256.00",
+            "category_id": "13",
+            "mp": "498.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.1",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "tejia",
+                "text": "爆款直降"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 128
+        },
+        {
+            "id": "1076456",
+            "isp": "1",
+            "sp": "390.00",
+            "category_id": "13",
+            "mp": "578.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.7",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 195
+        },
+        {
+            "id": "1076457",
+            "isp": "1",
+            "sp": "390.00",
+            "category_id": "13",
+            "mp": "578.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.7",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 195
+        },
+        {
+            "id": "1076458",
+            "isp": "1",
+            "sp": "390.00",
+            "category_id": "13",
+            "mp": "578.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.7",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 195
+        },
+        {
+            "id": "1076543",
+            "isp": "1",
+            "sp": "132.00",
+            "category_id": "13",
+            "mp": "398.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "",
+                "text": "拼团"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 150
+        },
+        {
+            "id": "1076546",
+            "isp": "1",
+            "sp": "132.00",
+            "category_id": "13",
+            "mp": "438.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.1",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "",
+                "text": "拼团"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 134
+        },
+        {
+            "id": "1076548",
+            "isp": "1",
+            "sp": "132.00",
+            "category_id": "13",
+            "mp": "438.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "",
+                "text": "拼团"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 143
+        },
+        {
+            "id": "1076550",
+            "isp": "1",
+            "sp": "285.00",
+            "category_id": "13",
+            "mp": "438.00",
+            "lj": "0",
+            "s": 0,
+            "is_outlets": "0",
+            "d": "6.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 0,
+            "ispn": 2,
+            "ispa": 143
+        },
+        {
+            "id": "1083369",
+            "isp": "1",
+            "sp": "546.00",
+            "category_id": "13",
+            "mp": "796.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.9",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 273
+        },
+        {
+            "id": "1108884",
+            "isp": "1",
+            "sp": "508.00",
+            "category_id": "13",
+            "mp": "1032.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "4.9",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 127
+        },
+        {
+            "id": "1108885",
+            "isp": "1",
+            "sp": "618.00",
+            "category_id": "13",
+            "mp": "796.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.8",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 155
+        },
+        {
+            "id": "1108886",
+            "isp": "1",
+            "sp": "439.00",
+            "category_id": "13",
+            "mp": "796.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 110
+        },
+        {
+            "id": "1125073",
+            "isp": "0",
+            "sp": "176.00",
+            "category_id": "13",
+            "mp": "220.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "8.0",
+            "warehouse_type": "1",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "1"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1
+        },
+        {
+            "id": "1125074",
+            "isp": "0",
+            "sp": "338.00",
+            "category_id": "13",
+            "mp": "408.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "8.3",
+            "warehouse_type": "1",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "1"
+            },
+            "p_b": {
+                "type": "tejia",
+                "text": "爆款直降"
+            },
+            "c_b": [],
+            "ss": 1
+        },
+        {
+            "id": "1125076",
+            "isp": "0",
+            "sp": "170.00",
+            "category_id": "13",
+            "mp": "278.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.1",
+            "warehouse_type": "1",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "1"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1
+        },
+        {
+            "id": "1126672",
+            "isp": "0",
+            "sp": "368.00",
+            "category_id": "13",
+            "mp": "368.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "10.0",
+            "warehouse_type": "3",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "3"
+            },
+            "p_b": {
+                "type": "zhe",
+                "text": "满折"
+            },
+            "c_b": [],
+            "ss": 1
+        },
+        {
+            "id": "1129677",
+            "isp": "1",
+            "sp": "332.00",
+            "category_id": "13",
+            "mp": "556.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.0",
+            "warehouse_type": "1",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "1"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 166
+        },
+        {
+            "id": "1129680",
+            "isp": "1",
+            "sp": "352.00",
+            "category_id": "13",
+            "mp": "360.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "9.8",
+            "warehouse_type": "1",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "1"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 176
+        },
+        {
+            "id": "1136065",
+            "isp": "0",
+            "sp": "465.00",
+            "category_id": "13",
+            "mp": "834.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.6",
+            "warehouse_type": "7",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "7"
+            },
+            "p_b": {
+                "type": "tejia",
+                "text": "直降"
+            },
+            "c_b": [],
+            "ss": 1
+        },
+        {
+            "id": "1142814",
+            "isp": "0",
+            "sp": "298.00",
+            "category_id": "13",
+            "mp": "298.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "10.0",
+            "warehouse_type": "1",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "1"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1
+        },
+        {
+            "id": "1143010",
+            "isp": "1",
+            "sp": "356.00",
+            "category_id": "13",
+            "mp": "440.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "8.1",
+            "warehouse_type": "1",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "1"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 178
+        },
+        {
+            "id": "1143014",
+            "isp": "1",
+            "sp": "440.00",
+            "category_id": "13",
+            "mp": "520.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "8.5",
+            "warehouse_type": "1",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "1"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 220
+        },
+        {
+            "id": "1154355",
+            "isp": "0",
+            "sp": "449.00",
+            "category_id": "13",
+            "mp": "495.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "9.1",
+            "warehouse_type": "3",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "3"
+            },
+            "p_b": {
+                "type": "tejia",
+                "text": "直降"
+            },
+            "c_b": [],
+            "ss": 1
+        },
+        {
+            "id": "1163959",
+            "isp": "0",
+            "sp": "756.00",
+            "category_id": "13",
+            "mp": "856.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "8.8",
+            "warehouse_type": "3",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "3"
+            },
+            "p_b": {
+                "type": "tejia",
+                "text": "直降"
+            },
+            "c_b": [],
+            "ss": 1
+        },
+        {
+            "id": "1180536",
+            "isp": "1",
+            "sp": "528.00",
+            "category_id": "13",
+            "mp": "776.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.8",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 2,
+            "ispa": 264
+        },
+        {
+            "id": "1204108",
+            "isp": "1",
+            "sp": "780.00",
+            "category_id": "13",
+            "mp": "1156.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.7",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 195
+        },
+        {
+            "id": "1204110",
+            "isp": "1",
+            "sp": "780.00",
+            "category_id": "13",
+            "mp": "1156.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.7",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 195
+        },
+        {
+            "id": "1204121",
+            "isp": "1",
+            "sp": "676.00",
+            "category_id": "15",
+            "mp": "876.00",
+            "lj": "0",
+            "s": 0,
+            "is_outlets": "0",
+            "d": "7.7",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 0,
+            "ispn": 2,
+            "ispa": 338
+        },
+        {
+            "id": "1204126",
+            "isp": "1",
+            "sp": "564.00",
+            "category_id": "13",
+            "mp": "684.00",
+            "lj": "0",
+            "s": 0,
+            "is_outlets": "0",
+            "d": "8.2",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 0,
+            "ispn": 3,
+            "ispa": 188
+        },
+        {
+            "id": "1204139",
+            "isp": "1",
+            "sp": "736.00",
+            "category_id": "15",
+            "mp": "1432.00",
+            "lj": "0",
+            "s": 0,
+            "is_outlets": "0",
+            "d": "5.1",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 0,
+            "ispn": 4,
+            "ispa": 184
+        },
+        {
+            "id": "1204140",
+            "isp": "1",
+            "sp": "789.00",
+            "category_id": "15",
+            "mp": "1472.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.4",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 197
+        },
+        {
+            "id": "1204142",
+            "isp": "1",
+            "sp": "989.00",
+            "category_id": "13",
+            "mp": "1512.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "6.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 247
+        },
+        {
+            "id": "1204151",
+            "isp": "1",
+            "sp": "570.00",
+            "category_id": "13",
+            "mp": "876.00",
+            "lj": "0",
+            "s": 0,
+            "is_outlets": "0",
+            "d": "6.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 0,
+            "ispn": 4,
+            "ispa": 143
+        },
+        {
+            "id": "1204153",
+            "isp": "1",
+            "sp": "570.00",
+            "category_id": "13",
+            "mp": "876.00",
+            "lj": "0",
+            "s": "4",
+            "is_outlets": "0",
+            "d": "6.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 143
+        },
+        {
+            "id": "1204156",
+            "isp": "1",
+            "sp": "439.00",
+            "category_id": "13",
+            "mp": "796.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 110
+        },
+        {
+            "id": "1204157",
+            "isp": "1",
+            "sp": "439.00",
+            "category_id": "13",
+            "mp": "796.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 110
+        },
+        {
+            "id": "1204159",
+            "isp": "1",
+            "sp": "899.00",
+            "category_id": "13",
+            "mp": "1128.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "8.0",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 6,
+            "ispa": 150
+        },
+        {
+            "id": "1204191",
+            "isp": "1",
+            "sp": "595.00",
+            "category_id": "13",
+            "mp": "796.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "7.5",
+            "warehouse_type": "6",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "6"
+            },
+            "p_b": {
+                "type": "jian",
+                "text": "阶梯满减"
+            },
+            "c_b": [],
+            "ss": 1,
+            "ispn": 4,
+            "ispa": 149
+        },
+        {
+            "id": "1241141",
+            "isp": "0",
+            "sp": "318.00",
+            "category_id": "13",
+            "mp": "596.00",
+            "lj": "0",
+            "s": "1",
+            "is_outlets": "0",
+            "d": "5.3",
+            "warehouse_type": "7",
+            "country_id": "0",
+            "min_sale_price": null,
+            "w_h": {
+                "type": "7"
+            },
+            "p_b": null,
+            "c_b": [],
+            "ss": 1
+        }
+    ],
+    "is_yure": 0,
+    "special_type": "4"
+}

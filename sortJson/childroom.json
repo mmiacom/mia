@@ -1,0 +1,133 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "11",
+        "son_category": [
+            {
+                "title": "宝宝寝居",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1456",
+                        "c_id": "330",
+                        "c_type": "category",
+                        "c_name": "包巾/睡袋",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/09/22/e2/78/e2782b36ef02b2212ec82be0020ab0bb461608509.jpg?rand=1474546161414",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1457",
+                        "c_id": "331",
+                        "c_type": "category",
+                        "c_name": "宝宝浴巾",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/09/22/21/ed/21ed1a27d8d4df56eaa68694121910e7461695704.jpg?rand=1474546170334",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1458",
+                        "c_id": "332",
+                        "c_type": "category",
+                        "c_name": "婴童枕",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/09/22/68/40/6840716b0f1924daae4151c0780ebb66461784532.jpg?rand=1474546178901",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1459",
+                        "c_id": "333",
+                        "c_type": "category",
+                        "c_name": "床围/床垫/尿垫",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/09/22/5a/a8/5aa8b5346481166de88e87532b17e580461885779.jpg?rand=1474546190288",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1460",
+                        "c_id": "334",
+                        "c_type": "category",
+                        "c_name": "被褥/毛毯/套件",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/09/22/5f/ca/5fca47db2242b318d049b1ecac2c4a55462058509.jpg?rand=1474546206107",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1461",
+                        "c_id": "337",
+                        "c_type": "category",
+                        "c_name": "宝宝床/摇椅",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p3/2016/05/13/0e/f2/0ef299aff646bde6573959fd5a01a6eb.jpg?rand=1463111704099",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1462",
+                        "c_id": "338",
+                        "c_type": "category",
+                        "c_name": "家具收纳",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/09/22/ee/ac/eeac092a580091cc5fc90f1101e456ee462737457.jpg?rand=1474546273622",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1463",
+                        "c_id": "339",
+                        "c_type": "category",
+                        "c_name": "安全防护",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/09/22/64/84/6484e2762f379e47d9b8d9514423f2a1462821611.jpg?rand=1474546282593",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1464",
+                        "c_id": "340",
+                        "c_type": "category",
+                        "c_name": "装饰小物",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/09/22/0e/a6/0ea64294d0052decf3b07a7b977f5c89462985089.jpg?rand=1474546298811",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1465",
+                        "c_id": "335",
+                        "c_type": "category",
+                        "c_name": "凉席/蚊帐",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/09/22/ca/b7/cab773b121e0a9814592a18cb386b16e462328356.jpg?rand=1474546233567",
+                        "tags_id": "112",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "婴儿床",
+                "url": "",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "1275",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "宝宝寝居",
+                        "url": null,
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/11/18/4a/a3/4aa3df82cad8a44b2bf9ace4c288b208512268709.jpg",
+                        "tags_id": "90",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

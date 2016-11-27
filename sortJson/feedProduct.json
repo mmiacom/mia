@@ -1,0 +1,143 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "12",
+        "son_category": [
+            {
+                "title": "banner",
+                "url": "",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "688",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "全球奶瓶",
+                        "url": "http://m.mia.com/special/module/index/10535/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/11/11/bf/3d/bf3d890bafbc071c1dca9d0a3c7c3873785535586.jpg",
+                        "tags_id": "19",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "喂养用品",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1436",
+                        "c_id": "44",
+                        "c_type": "category",
+                        "c_name": "奶瓶",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/19/a0/a7/a0a748d8205beca9096a464d07739473843387990.jpg?rand=1474284338886",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1435",
+                        "c_id": "45",
+                        "c_type": "category",
+                        "c_name": "奶嘴/安抚奶嘴",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/94/4a/944abd318b6f4a98637e7114fb56d351.png",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "680",
+                        "c_id": "46",
+                        "c_type": "category",
+                        "c_name": "碗碟餐具",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/category/15227044115409.jpg",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1437",
+                        "c_id": "49",
+                        "c_type": "category",
+                        "c_name": "学饮杯/水壶",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/17/79/17791aeea465e5dfe850bb6a616fe01a.png",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1439",
+                        "c_id": "47",
+                        "c_type": "category",
+                        "c_name": "食物研磨及制作",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/09/3f/e3/3fe3b7389bb1e2740ae0c19b486b7cc6.png",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "683",
+                        "c_id": "48",
+                        "c_type": "category",
+                        "c_name": "食物储存",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/category/15227044129297.jpg",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "684",
+                        "c_id": "51",
+                        "c_type": "category",
+                        "c_name": "围兜/防溅衣",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/category/15227044151850.jpg",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1440",
+                        "c_id": "50",
+                        "c_type": "category",
+                        "c_name": "消毒/暖奶/加热",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/category/15227044144752.jpg",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "686",
+                        "c_id": "53",
+                        "c_type": "category",
+                        "c_name": "餐椅",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/category/15227044206850.jpg",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1438",
+                        "c_id": "356",
+                        "c_type": "category",
+                        "c_name": "喂养护理小家电",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/19/03/d7/03d7befcba659b4e3b51ae8cd99d34c5843825500.jpg?rand=1474284382785",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "687",
+                        "c_id": "52",
+                        "c_type": "category",
+                        "c_name": "辅助配件",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/category/15227044158780.jpg",
+                        "tags_id": "7",
+                        "is_bonded": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}

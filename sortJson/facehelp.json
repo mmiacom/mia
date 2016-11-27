@@ -1,0 +1,314 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "27",
+        "son_category": [
+            {
+                "title": "banner",
+                "url": "",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "1048",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "美妆个护",
+                        "url": "http://m.mia.com/special/module/index/1498/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/11/11/bf/8a/bf8a8cc9afcc9c0a0d04f19be9617f92786647852.jpg",
+                        "tags_id": "57",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "面部护肤",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1442",
+                        "c_id": "197",
+                        "c_type": "category",
+                        "c_name": "面膜",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/19/2e/c9/2ec9c4c72c221ed4e1c738437714c73d825347812.jpg?rand=1474282534139",
+                        "tags_id": "98",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1446",
+                        "c_id": "195",
+                        "c_type": "category",
+                        "c_name": "洁面",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/22/e3/1c/e31c5b1661218356da09a95c4207242c240441909.jpg?rand=1474524048009",
+                        "tags_id": "98",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1447",
+                        "c_id": "196",
+                        "c_type": "category",
+                        "c_name": "化妆水/爽肤水",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/22/f4/a0/f4a07995bca453ee8142dd1801e4d796240837840.jpg?rand=1474524084957",
+                        "tags_id": "98",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1342",
+                        "c_id": "198",
+                        "c_type": "category",
+                        "c_name": "乳液/面霜",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/8c/07/8c0725dc1cb8c2811e38a3180c97d896.png",
+                        "tags_id": "98",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1343",
+                        "c_id": "175",
+                        "c_type": "category",
+                        "c_name": "防晒/隔离",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/81/67/8167afbaa9d446960816fee30a724efe.png",
+                        "tags_id": "98",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1344",
+                        "c_id": "201",
+                        "c_type": "category",
+                        "c_name": "护肤套装",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/8e/43/8e439123f593797a1ec162eade3a110f.png",
+                        "tags_id": "98",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1346",
+                        "c_id": "199",
+                        "c_type": "category",
+                        "c_name": "眼部护理",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/df/c9/dfc9911be8185adba40650c4e53e8e62.png",
+                        "tags_id": "98",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1448",
+                        "c_id": "200",
+                        "c_type": "category",
+                        "c_name": "唇部护理",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/22/59/e0/59e0373380a3c4311f8fecaa05b9a7c9239744151.jpg?rand=1474523976309",
+                        "tags_id": "98",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "身体护理",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1454",
+                        "c_id": "222",
+                        "c_type": "category",
+                        "c_name": "洗发护发",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/22/ef/15/ef158679f841fb0df37bac8ef3ff4b5e398928320.png?rand=1474539891954",
+                        "tags_id": "97",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1333",
+                        "c_id": "223",
+                        "c_type": "category",
+                        "c_name": "沐浴护肤/美体",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/7b/56/7b56eb187c4215619f19be08136c0b74.png",
+                        "tags_id": "97",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1455",
+                        "c_id": "209",
+                        "c_type": "category",
+                        "c_name": "手足保养",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/22/11/f1/11f17ab52104bac3eb666cb87e3d4f60398686144.jpg?rand=1474539867783",
+                        "tags_id": "97",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1452",
+                        "c_id": "216",
+                        "c_type": "category",
+                        "c_name": "美发/防晒伞",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/b1/37/b137902007dba0e1cb41462f7fce6627.png",
+                        "tags_id": "97",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1451",
+                        "c_id": "210",
+                        "c_type": "category",
+                        "c_name": "纤体塑身",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/22/8e/e9/8ee9a639464a5df1e4f82bdc4e98d21c241718039.jpg?rand=1474524172893",
+                        "tags_id": "97",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1453",
+                        "c_id": "135",
+                        "c_type": "category",
+                        "c_name": "私密护理",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/22/bb/f2/bbf2cc63b32da2ff092ec1076bf24db2241951328.jpg?rand=1474524196742",
+                        "tags_id": "97",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1338",
+                        "c_id": "270",
+                        "c_type": "category",
+                        "c_name": "卫生巾",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/05/0b/050b5743ba0c88fd85f590700c4bd8ab.jpg",
+                        "tags_id": "97",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1339",
+                        "c_id": "134",
+                        "c_type": "category",
+                        "c_name": "口腔护理",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/bf/1f/bf1fbba1a47e99fbea275670842585dc.png",
+                        "tags_id": "97",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "彩妆",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1422",
+                        "c_id": "366",
+                        "c_type": "category",
+                        "c_name": "卸妆",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/19/ee/7c/ee7c44e71ed40759aa7aab019812059e824341372.jpg?rand=1474282434510",
+                        "tags_id": "110",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1423",
+                        "c_id": "367",
+                        "c_type": "category",
+                        "c_name": "底妆遮瑕",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/19/5b/15/5b159b7001ee8d702d0ed1d37f25856f824621005.jpg?rand=1474282462612",
+                        "tags_id": "110",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1425",
+                        "c_id": "369",
+                        "c_type": "category",
+                        "c_name": "口红/唇彩",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/19/7d/ab/7dab74ae1e2f49af74d7369f7bed255f824763861.jpg?rand=1474282476292",
+                        "tags_id": "110",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1424",
+                        "c_id": "368",
+                        "c_type": "category",
+                        "c_name": "眼部彩妆",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/09/19/1e/05/1e05929495456b86ea3d961bc03244d9824699518.jpg?rand=1474282469728",
+                        "tags_id": "110",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1426",
+                        "c_id": "370",
+                        "c_type": "category",
+                        "c_name": "香水",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/09/19/17/44/1744868523d1fb530767a08b1ed3dd26824898653.jpg?rand=1474282489195",
+                        "tags_id": "110",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "熟女轻奢",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1616",
+                        "c_id": "303",
+                        "c_type": "category",
+                        "c_name": "包袋",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/11/14/47/44/47449ca5d89b32f51d5449b3a097b635251764623.jpg?rand=1479125177639",
+                        "tags_id": "96",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1617",
+                        "c_id": "304",
+                        "c_type": "category",
+                        "c_name": "服装",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/11/14/91/03/9103ccf608d64f6a173349644234ef69251997167.jpg?rand=1479125200019",
+                        "tags_id": "96",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1618",
+                        "c_id": "305",
+                        "c_type": "category",
+                        "c_name": "墨镜",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/11/14/11/58/115885a9efc67694d9317d574e7d5376252123376.jpg?rand=1479125212252",
+                        "tags_id": "96",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1619",
+                        "c_id": "306",
+                        "c_type": "category",
+                        "c_name": "鞋靴",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/11/14/29/bd/29bd3cfddf43d61a5d0314528f0079fa252272474.jpg?rand=1479125228603",
+                        "tags_id": "96",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1331",
+                        "c_id": "307",
+                        "c_type": "category",
+                        "c_name": "配饰",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/08/11/2f/b4/2fb4e337b099a29d71803d9273fa9af8006867512.jpg?rand=1470900689221",
+                        "tags_id": "96",
+                        "is_bonded": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}

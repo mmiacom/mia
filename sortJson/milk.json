@@ -1,0 +1,450 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "42",
+        "son_category": [
+            {
+                "title": "宝宝奶粉",
+                "url": "",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "1130",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "宝宝奶粉",
+                        "url": "http://m.mia.com/special/module/index/13049/wap/",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/2016/11/14/de/d4/ded4a9ad2d503b767baddaf2d0a09728092543863.jpg",
+                        "tags_id": "80",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "全球奶粉大牌",
+                "url": "",
+                "type": "defined",
+                "categorys": [
+                    {
+                        "p_id": "1245",
+                        "c_id": "163",
+                        "c_type": "brand",
+                        "c_name": "德国原装 Aptamil",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/163_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "719",
+                        "c_id": "175",
+                        "c_type": "brand",
+                        "c_name": "荷兰原装 Nutrilon",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/175_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "722",
+                        "c_id": "517",
+                        "c_type": "brand",
+                        "c_name": "澳洲原装 Aptamil",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/517_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "720",
+                        "c_id": "189",
+                        "c_type": "brand",
+                        "c_name": "荷兰原装 Hero baby",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/189_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "717",
+                        "c_id": "661",
+                        "c_type": "brand",
+                        "c_name": "德国原装 HIPP",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/661_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "725",
+                        "c_id": "265",
+                        "c_type": "brand",
+                        "c_name": "英国原装 Cow&Gate",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/265_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "724",
+                        "c_id": "267",
+                        "c_type": "brand",
+                        "c_name": "英国原装 Aptamil",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/267_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1322",
+                        "c_id": "192",
+                        "c_type": "brand",
+                        "c_name": "新西兰原装 a2",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/brand/192_band_img.png",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1110",
+                        "c_id": "2560",
+                        "c_type": "brand",
+                        "c_name": "雅培",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/2560_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "718",
+                        "c_id": "516",
+                        "c_type": "brand",
+                        "c_name": "德国原装 Topfer",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/516_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1137",
+                        "c_id": "1800",
+                        "c_type": "brand",
+                        "c_name": "港版原装 美赞臣 MeadJohnson",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/brand/1800_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1064",
+                        "c_id": "2559",
+                        "c_type": "brand",
+                        "c_name": "荷兰原装 Friso",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/2559_band_img.png",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "731",
+                        "c_id": "524",
+                        "c_type": "brand",
+                        "c_name": "授权行货 惠氏启赋",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/524_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "728",
+                        "c_id": "526",
+                        "c_type": "brand",
+                        "c_name": "授权行货 爱他美",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/526_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "729",
+                        "c_id": "173",
+                        "c_type": "brand",
+                        "c_name": "授权行货 诺优能",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/173_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1237",
+                        "c_id": "1309",
+                        "c_type": "brand",
+                        "c_name": "惠氏 Wyeth",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/1309_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1114",
+                        "c_id": "2998",
+                        "c_type": "brand",
+                        "c_name": "美素佳儿 Friso",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/2998_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1121",
+                        "c_id": "2987",
+                        "c_type": "brand",
+                        "c_name": "EARTH'S BEST",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/2987_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1062",
+                        "c_id": "1898",
+                        "c_type": "brand",
+                        "c_name": "授权行货 喜宝",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/1898_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1119",
+                        "c_id": "3147",
+                        "c_type": "brand",
+                        "c_name": "Arla",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/3147_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1116",
+                        "c_id": "2885",
+                        "c_type": "brand",
+                        "c_name": "授权行货 特福芬 Topfer",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/2885_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1118",
+                        "c_id": "3146",
+                        "c_type": "brand",
+                        "c_name": "多美滋 Dumex",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/3146_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1063",
+                        "c_id": "2500",
+                        "c_type": "brand",
+                        "c_name": "Humana",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/2500_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1115",
+                        "c_id": "2884",
+                        "c_type": "brand",
+                        "c_name": "美赞臣 MeadJohnson",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/brand/2884_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1241",
+                        "c_id": "3468",
+                        "c_type": "brand",
+                        "c_name": "雀巢（奶粉） Nestle",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/brand/3468_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1246",
+                        "c_id": "3926",
+                        "c_type": "brand",
+                        "c_name": "合生元 BIOETIME",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/brand/3926_band_img.png",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1247",
+                        "c_id": "3475",
+                        "c_type": "brand",
+                        "c_name": "澳佳宝（奶粉） BLACKMORES",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/brand/3475_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1248",
+                        "c_id": "3781",
+                        "c_type": "brand",
+                        "c_name": "澳洲原装 惠氏S26 Wyeth",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/brand/3781_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1249",
+                        "c_id": "191",
+                        "c_type": "brand",
+                        "c_name": "澳洲原装 BELLAMY'S",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/brand/191_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1250",
+                        "c_id": "3988",
+                        "c_type": "brand",
+                        "c_name": "澳洲原装博宝  bubs",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p3/brand/3988_band_img.png",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1320",
+                        "c_id": "4044",
+                        "c_type": "brand",
+                        "c_name": "荷仕兰 Hosland",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/brand/4044_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1362",
+                        "c_id": "4754",
+                        "c_type": "brand",
+                        "c_name": "新西兰原装（羊奶） Karicare",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/brand/4754_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1361",
+                        "c_id": "4617",
+                        "c_type": "brand",
+                        "c_name": "贝拉米（奶粉） BELLAMY'S",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/brand/4617_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1559",
+                        "c_id": "5404",
+                        "c_type": "brand",
+                        "c_name": "芙思柯 Fresco",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/brand/5404_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1615",
+                        "c_id": "4785",
+                        "c_type": "brand",
+                        "c_name": "意大利原装 Mellin",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/brand/4785_band_img.jpg",
+                        "tags_id": "23",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "奶粉分类",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1351",
+                        "c_id": "13",
+                        "c_type": "category",
+                        "c_name": "婴儿奶粉",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/2015/10/10/6f/8b/6f8be3adc6c3362a3b2506f1856a2932.png",
+                        "tags_id": "102",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1352",
+                        "c_id": "15",
+                        "c_type": "category",
+                        "c_name": "成长奶粉",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/2016/08/25/8a/a5/8aa55fff42668dc0c85b369e8e856404095078468.jpg?rand=1472109507198",
+                        "tags_id": "102",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1359",
+                        "c_id": "17",
+                        "c_type": "category",
+                        "c_name": "特配奶粉",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p5/2016/08/30/ed/fb/edfb84a039b9a3aeb4f4deb1c6f0c755428704429.jpg?rand=1472542872632",
+                        "tags_id": "102",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1354",
+                        "c_id": "156",
+                        "c_type": "category",
+                        "c_name": "羊奶粉",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/2016/08/25/9c/98/9c9838b29d90d9a03bc1f8f5c6b3de17095329064.jpg?rand=1472109532714",
+                        "tags_id": "102",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1355",
+                        "c_id": "19",
+                        "c_type": "category",
+                        "c_name": "妈妈奶粉",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p4/2016/08/25/73/1c/731c366c373ecebae9f6f11edb012420096518845.jpg?rand=1472109651445",
+                        "tags_id": "102",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1356",
+                        "c_id": "253",
+                        "c_type": "category",
+                        "c_name": "成人奶粉",
+                        "url": "",
+                        "banner_image": "http://img02.miyabaobei.com/d1/p2/2015/10/10/e7/58/e758a19bb04c34b8176b0253e704618c.jpg",
+                        "tags_id": "102",
+                        "is_bonded": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "25",
+        "son_category": [
+            {
+                "title": "食品",
+                "url": "http://m.mia.com/special/module/index/4851/app/",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "1276",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "美食保健",
+                        "url": "http://m.mia.com/special/module/index/8857/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/11/11/17/a7/17a736716724ea84d32966c1924950fc785153474.jpg",
+                        "tags_id": "91",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "地方特产",
+                "url": "",
+                "type": "defined",
+                "categorys": [
+                    {
+                        "p_id": "1510",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "新疆",
+                        "url": "http://m.mia.com/special/module/index/11334/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/09/d2/58/d258ff60be8444cb1a8a25750ec43f0d158004886.jpg?rand=1476015800344",
+                        "tags_id": "116",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1480",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "四川",
+                        "url": "http://m.mia.com/special/module/index/11268/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/09/7a/a0/7aa0b9a3a1bac9ef0c8e078c64d85001158466413.jpg?rand=1476015846608",
+                        "tags_id": "116",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1481",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "山西",
+                        "url": "http://m.mia.com/special/module/index/11329/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/09/57/d0/57d061006146807a9a2be24711101554158652081.jpg?rand=1476015865409",
+                        "tags_id": "116",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1482",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "海南",
+                        "url": "http://m.mia.com/special/module/index/11331/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/09/17/b7/17b74a5b368966a625fd94079f17c2c0158985880.jpg?rand=1476015898606",
+                        "tags_id": "116",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1483",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "福建",
+                        "url": "http://m.mia.com/special/module/index/11332/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/09/e2/4e/e24e9b925d160a0b50ebee0b178c8ace159158905.jpg?rand=1476015915474",
+                        "tags_id": "116",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1484",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "山东",
+                        "url": "http://m.mia.com/special/module/index/11333/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/09/ed/08/ed088aba133033ce1dbddadffe05b3a0158809518.jpg?rand=1476015880143",
+                        "tags_id": "116",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1485",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "湖南",
+                        "url": "http://m.mia.com/special/module/index/11330/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/09/53/6e/536e4fd76004f6aa89ae698147b904e8159452020.jpg?rand=1476015945337",
+                        "tags_id": "116",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    },
+                    {
+                        "p_id": "1486",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "其他特产",
+                        "url": "http://m.mia.com/special/module/index/11336/wap/",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/10/09/1e/c2/1ec27c9b30cc46e87c2dcc723d7e0c20159631847.jpg?rand=1476015963136",
+                        "tags_id": "116",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "进口食品",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1512",
+                        "c_id": "171",
+                        "c_type": "category",
+                        "c_name": "休闲零食",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p4/2016/10/09/6f/10/6f107c7fc9c973928b4adf99534764f0161667815.jpg?rand=1476016166300",
+                        "tags_id": "87",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1214",
+                        "c_id": "167",
+                        "c_type": "category",
+                        "c_name": "饼干/糕点",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/77/d4/77d41c7a3c9b5b130e90f2218a155f5e.png",
+                        "tags_id": "87",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1215",
+                        "c_id": "169",
+                        "c_type": "category",
+                        "c_name": "糖果/巧克力",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/20/dc/1d/dc1d1c974c93c35d972eec5665936607.jpg?rand=1445310434344",
+                        "tags_id": "87",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1216",
+                        "c_id": "168",
+                        "c_type": "category",
+                        "c_name": "干果/果干",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/ff/87/ff87dbe99cff59d98bd1f4269aa3c7c9.png",
+                        "tags_id": "87",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1511",
+                        "c_id": "170",
+                        "c_type": "category",
+                        "c_name": "冲调/饮品",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/09/43/ca/43ca4f3940b454ecc78cd35309fe1ab4160479836.jpg?rand=1476016047418",
+                        "tags_id": "87",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1220",
+                        "c_id": "184",
+                        "c_type": "category",
+                        "c_name": "面食/调味/油",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/1d/48/1d48e81f006f44b539a1d2ea6e3ccbc9.png",
+                        "tags_id": "87",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "营养保健",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1203",
+                        "c_id": "129",
+                        "c_type": "category",
+                        "c_name": "鱼油/卵磷脂",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/12/73/127357fbb42a17c66afd68a87e0ad7c1.jpg",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1204",
+                        "c_id": "205",
+                        "c_type": "category",
+                        "c_name": "钙+维生素D",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/aa/e3/aae330c6a978bd9b9fd5930fdc2b8aa4.png",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1205",
+                        "c_id": "271",
+                        "c_type": "category",
+                        "c_name": "益生菌",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/f5/96/f5960aa08d6716be2b643aaeb937850d.jpg",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1206",
+                        "c_id": "206",
+                        "c_type": "category",
+                        "c_name": "胶原蛋白",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/c7/36/c736ba7e442b419372c2d83588ceca71.png",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1513",
+                        "c_id": "207",
+                        "c_type": "category",
+                        "c_name": "综合维生素",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p5/2016/10/09/e9/34/e9345b06f95e1ab5f60c936695bf3595161862604.jpg?rand=1476016186599",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1208",
+                        "c_id": "263",
+                        "c_type": "category",
+                        "c_name": "酵素",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/10/31/c8/31c8197857b338238faa2fdc1c6402e4.png",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1209",
+                        "c_id": "264",
+                        "c_type": "category",
+                        "c_name": "蔓越莓/葡萄籽",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p1/2015/10/09/f4/c4/f4c4b8cffaeb526cc6a53993b596f002.png",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1210",
+                        "c_id": "265",
+                        "c_type": "category",
+                        "c_name": "滋补养生",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/29/0f/fd/0ffd692d54cf38c08f46e838b85e72d3.jpg?rand=1446103733862",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1211",
+                        "c_id": "266",
+                        "c_type": "category",
+                        "c_name": "瘦身代餐",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/f1/10/f110db3cfaa586424a63bf6b53a3f828.png",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1212",
+                        "c_id": "238",
+                        "c_type": "category",
+                        "c_name": "男士保健",
+                        "url": "",
+                        "banner_image": "http://img01.miyabaobei.com/d1/p2/2015/10/10/a7/94/a794c5dcc1ad1ff328e3eedc592ad510.png",
+                        "tags_id": "86",
+                        "is_bonded": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}

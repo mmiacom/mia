@@ -1,0 +1,427 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "39",
+        "son_category": [
+            {
+                "title": "banner",
+                "url": "",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "1558",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "童装童鞋",
+                        "url": null,
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/11/17/4f/f1/4ff17ab234dc4bc81ce1efbcb7cf83d1708465937.jpg",
+                        "tags_id": "123",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "婴幼服饰",
+                "url": "",
+                "type": "defined",
+                "categorys": [
+                    {
+                        "p_id": "1517",
+                        "c_id": "228",
+                        "c_type": "category",
+                        "c_name": "连身衣/爬服",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/dc/eb/dceb697751f3ec526034729e90f57f13135511301.jpg?rand=1476013551211",
+                        "tags_id": "119",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1518",
+                        "c_id": "64",
+                        "c_type": "category",
+                        "c_name": "婴儿内衣",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/3c/63/3c63aea62ce7728fd365bed35c1c0f4c144275016.jpg?rand=1476014427525",
+                        "tags_id": "119",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1519",
+                        "c_id": "183",
+                        "c_type": "category",
+                        "c_name": "新生儿礼盒",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/fd/8c/fd8c02200e7682921d72c040a7403363135261481.jpg?rand=1476013526426",
+                        "tags_id": "119",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1562",
+                        "c_id": "308",
+                        "c_type": "category",
+                        "c_name": "手套/脚套/帽子",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/18/44/66/4466f9f8d22de9e955dc778e9f8cfd19845751553.jpg?rand=1476784575441",
+                        "tags_id": "119",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1567",
+                        "c_id": "66",
+                        "c_type": "category",
+                        "c_name": "罩衣/围嘴",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/18/d9/9e/d99e0dee62422b676de1a535eddc342b849416258.jpg?rand=1476784942293",
+                        "tags_id": "119",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1522",
+                        "c_id": "310",
+                        "c_type": "category",
+                        "c_name": "护脐带/肚兜",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/e4/90/e490471b6655897eac63d0a235c2da25136517544.jpg?rand=1476013651469",
+                        "tags_id": "119",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "童装",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1560",
+                        "c_id": "309",
+                        "c_type": "category",
+                        "c_name": "羽绒服",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/54/5b/545bd05ddea54ed5f3c8cbdf7b0df3a3136354527.jpg?rand=1476013635888",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1524",
+                        "c_id": "73",
+                        "c_type": "category",
+                        "c_name": "棉袄/棉服",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/94/97/9497640a35f9a7cb96fcc6e8bb506fcf146425642.jpg?rand=1476014642042",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1523",
+                        "c_id": "318",
+                        "c_type": "category",
+                        "c_name": "套装",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/51/7b/517b539528d631bee18a022a8a89fd85138618049.jpg?rand=1476013861400",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1526",
+                        "c_id": "69",
+                        "c_type": "category",
+                        "c_name": "毛衣/针织衫",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/f7/3f/f73f3fbcfaeea9b27c123b12ce3f44bb145768025.jpg?rand=1476014576374",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1527",
+                        "c_id": "312",
+                        "c_type": "category",
+                        "c_name": "风衣/外套",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/35/bc/35bc2e735a2834a383e67325c6700974136923157.jpg?rand=1476013692605",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1528",
+                        "c_id": "72",
+                        "c_type": "category",
+                        "c_name": "卫衣/绒衫",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/a6/ec/a6ec037fafffca97a1f04fa3ddfb8008146298944.jpg?rand=1476014629440",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1529",
+                        "c_id": "71",
+                        "c_type": "category",
+                        "c_name": "连衣裙/半身裙",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/bd/10/bd10def8004f7a6d46f2604dd059af19146103584.jpg?rand=1476014610878",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1533",
+                        "c_id": "311",
+                        "c_type": "category",
+                        "c_name": "西服/皮衣/夹克",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p3/2016/04/21/e4/ef/e4ef3f745cf63768e134ac5059b039ba.jpg?rand=1461228323834",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1534",
+                        "c_id": "323",
+                        "c_type": "category",
+                        "c_name": "帽子/围巾/手套",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/bb/4e/bb4ee170554b9c0a26fbfcecec67c40c139246328.jpg?rand=1476013924577",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1563",
+                        "c_id": "313",
+                        "c_type": "category",
+                        "c_name": "T恤/POLO衫",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/18/53/a8/53a85ce7301b4e82d8b87df312fd93e7845908013.jpg?rand=1476784591490",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1536",
+                        "c_id": "68",
+                        "c_type": "category",
+                        "c_name": "衬衫",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/b5/c1/b5c12911f5b3a9ad39a8cbbc60531f35145612052.jpg?rand=1476014561161",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1537",
+                        "c_id": "67",
+                        "c_type": "category",
+                        "c_name": "马甲/坎肩",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/77/98/77984e5029c3541d2ed0c0404f7279f5145522284.jpg?rand=1476014552277",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1564",
+                        "c_id": "325",
+                        "c_type": "category",
+                        "c_name": "亲子装",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/18/3a/41/3a4133bb8709d4f4ea18f639d7bf4f12845452650.jpg?rand=1476784546010",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1539",
+                        "c_id": "317",
+                        "c_type": "category",
+                        "c_name": "背带裤/连体裤",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/d7/be/d7be3e14edf46f81d67ee93a5a9101e8138525875.jpg?rand=1476013852250",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1531",
+                        "c_id": "315",
+                        "c_type": "category",
+                        "c_name": "牛仔裤",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/c5/95/c5957040c371a1c4543c8c8d8a58c1f5137398566.jpg?rand=1476013739120",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1532",
+                        "c_id": "316",
+                        "c_type": "category",
+                        "c_name": "休闲裤",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/4c/24/4c249d9820f1100f7cd3bd0277226b6d137559004.jpg?rand=1476013755416",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1540",
+                        "c_id": "79",
+                        "c_type": "category",
+                        "c_name": "打底裤/袜品",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/b8/e9/b8e9cee17566c218a6096a2b510920e8146872678.jpg?rand=1476014687224",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1541",
+                        "c_id": "321",
+                        "c_type": "category",
+                        "c_name": "家居服/睡衣",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/1e/32/1e322579788ccc7e9d2579189a7f3dbb138887200.jpg?rand=1476013888827",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1542",
+                        "c_id": "319",
+                        "c_type": "category",
+                        "c_name": "内衣/内裤",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/b8/e0/b8e0d222ac5e36cc37683febdf6b66e6138759090.jpg?rand=1476013875530",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1565",
+                        "c_id": "314",
+                        "c_type": "category",
+                        "c_name": "吊带/背心",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/18/2e/22/2e22dbb6b6c265370d923fb784f8dfbd845631443.jpg?rand=1476784563420",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1544",
+                        "c_id": "327",
+                        "c_type": "category",
+                        "c_name": "雨衣/雨具",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/d0/63/d063ea02f70060a9f64dd28cf97081f3144138648.jpg?rand=1476014413546",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1545",
+                        "c_id": "82",
+                        "c_type": "category",
+                        "c_name": "泳衣/泳帽",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/0e/1d/0e1d7669b362840e20bf510b41370dcd147247933.jpg?rand=1476014724756",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1546",
+                        "c_id": "80",
+                        "c_type": "category",
+                        "c_name": "配饰/发饰",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/1b/bc/1bbcace29a2b68e3dd0b0b9a51956678147049951.jpg?rand=1476014704459",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1547",
+                        "c_id": "322",
+                        "c_type": "category",
+                        "c_name": "太阳镜",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/59/19/5919b2e1d6e6b03f3a83bdefc5215c48139028326.jpg?rand=1476013901963",
+                        "tags_id": "120",
+                        "is_bonded": "0"
+                    }
+                ]
+            },
+            {
+                "title": "童鞋",
+                "url": "",
+                "type": "category",
+                "categorys": [
+                    {
+                        "p_id": "1552",
+                        "c_id": "77",
+                        "c_type": "category",
+                        "c_name": "棉鞋/雪地靴",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/5b/d9/5bd9df3d5bdc85264ab7b7d6306a4674146592471.jpg?rand=1476014659023",
+                        "tags_id": "121",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1549",
+                        "c_id": "239",
+                        "c_type": "category",
+                        "c_name": "学步鞋/机能鞋",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/eb/a9/eba9ad62d83b9291aeaaaf325f40b144135649249.jpg?rand=1476013563992",
+                        "tags_id": "121",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1550",
+                        "c_id": "240",
+                        "c_type": "category",
+                        "c_name": "运动鞋",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p4/2016/10/09/e2/ac/e2ac6ce8d3e21de20dd50722aad53a39135765300.jpg?rand=1476013576992",
+                        "tags_id": "121",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1551",
+                        "c_id": "76",
+                        "c_type": "category",
+                        "c_name": "休闲/帆布鞋",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/38/93/389331f66f02c41f6ed036f7067bd733146499051.jpg?rand=1476014649557",
+                        "tags_id": "121",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1553",
+                        "c_id": "178",
+                        "c_type": "category",
+                        "c_name": "皮鞋/公主鞋",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/7b/54/7b540e70f0fc3764feb332dd3797bb52135138906.jpg?rand=1476013513444",
+                        "tags_id": "121",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1554",
+                        "c_id": "326",
+                        "c_type": "category",
+                        "c_name": "家居鞋/拖鞋",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/f8/4a/f84a3b1f5d21ca0f863cbe49bee78119142792017.jpg?rand=1476014279296",
+                        "tags_id": "121",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1555",
+                        "c_id": "81",
+                        "c_type": "category",
+                        "c_name": "雨鞋",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/96/6f/966f48c658ed77fdf51c465fcf0e3edb147144533.jpg?rand=1476014714705",
+                        "tags_id": "121",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1556",
+                        "c_id": "241",
+                        "c_type": "category",
+                        "c_name": "凉鞋",
+                        "url": "",
+                        "banner_image": "http://img03.miyabaobei.com/d1/p5/2016/10/09/76/8d/768df591a7545fd7cad808b204b9cca7135873637.jpg?rand=1476013586941",
+                        "tags_id": "121",
+                        "is_bonded": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}

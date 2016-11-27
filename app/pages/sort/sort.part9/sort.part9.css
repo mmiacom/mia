@@ -1,0 +1,68 @@
+.sort .sort-content{
+	width: 75%;
+	margin-left:2.5rem;
+/*	margin-top: 1.20rem;*/
+	
+}
+.sort .sort-content>div{
+	width: 100%;
+	/*display: flex;
+	flex-wrap: wrap;*/
+	
+}
+.sort .sort-content>div>a{
+	display: block;
+	width: 96%;
+	padding: 2% 2%;
+}
+.sort .sort-content>div>a>img{
+	display: block;
+	width: 100%;
+	height: 96%;
+	margin: 0 auto;
+}
+.sort .sort-content>div>.sort-item-demo{
+	width: 100%;
+	height: 1.055555rem;
+	line-height: 1.055555rem;
+	font-size: 0.314814rem;
+	color: #333333;
+	margin-left: 2%;
+}
+.sort .sort-content>div>.sort-item-list{
+	width: 96%;
+	border: 1px solid transparent;
+	padding: 2% 2%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+/*.sort-item-listA{
+	background: red;
+}*/
+.sort .sort-content>div>.sort-item-list>.sort-item-listA{
+	width: 33.333333%;
+	height: 2.518518rem;
+	text-decoration: none;
+	color: #808080;
+	font-size: 0.314814rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom:0.3rem;
+}
+
+.sort .sort-content>div>.sort-item-list>a>img{
+	width: 1.348148rem;
+	height: 1.718518rem;	
+}
+.sort .sort-content>div>.sort-item-list>a>span{
+	width: 94%;
+	padding: 0 3%;
+	height: 0.83333332rem;
+	font-size: 0.314814rem;
+	color: #808080;
+	line-height: 0.416666rem;	
+	text-align: center;
+}

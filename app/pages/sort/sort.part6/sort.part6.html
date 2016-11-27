@@ -1,0 +1,17 @@
+<div class="sort-item">
+	<a href="#">
+		<img ng-src='{{sortpart6Data.categorysInfos.son_category[0].categorys[0].banner_image}}'/>
+	</a>
+	<div class="sort-item-demo">
+		{{sortpart6Data.categorysInfos.son_category[1].title}}
+	</div>
+	<div class="sort-item-list">
+		<a ui-sref="sort.part" class="sort-item-listA" ng-repeat="sortpart6 in sortpart6Data.categorysInfos.son_category[1].categorys">
+				<img ng-src='{{sortpart6.banner_image}}'/>
+				<span>{{sortpart6.c_name}}</span>
+		</a>
+		
+	</div>
+
+</div>
+

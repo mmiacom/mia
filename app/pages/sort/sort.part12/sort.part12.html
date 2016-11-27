@@ -1,0 +1,46 @@
+<div class="sort-item">
+	<a href="#">
+		<img ng-src='{{sortpart12Data.categorysInfos.son_category[0].categorys[0].banner_image}}'/>
+	</a>
+	<div class="sort-item-demo">
+		{{sortpart12Data.categorysInfos.son_category[1].title}}
+	</div>
+	<div class="sort-item-list">
+		<a ui-sref="sort.part" class="sort-item-listA" ng-repeat="sortpart12 in sortpart12Data.categorysInfos.son_category[1].categorys">
+				<img ng-src='{{sortpart12.banner_image}}'/>
+				<span>{{sortpart12.c_name}}</span>
+		</a>
+		
+	</div>
+	<div class="sort-item-demo">
+		{{sortpart12Data.categorysInfos.son_category[2].title}}
+	</div>
+	<div class="sort-item-list">
+		<a ui-sref="sort.part" class="sort-item-listA" ng-repeat="sortpart12 in sortpart12Data.categorysInfos.son_category[2].categorys">
+				<img ng-src="{{sortpart12.banner_image}}"/>
+				<span>{{sortpart12.c_name}}</span>
+		</a>
+
+	</div>
+	<div class="sort-item-demo">
+		{{sortpart12Data.categorysInfos.son_category[3].title}}
+	</div>
+	<div class="sort-item-list">
+		<a ui-sref="sort.part" class="sort-item-listA" ng-repeat="sortpart12 in sortpart12Data.categorysInfos.son_category[3].categorys">
+				<img ng-src="{{sortpart12.banner_image}}"/>
+				<span>{{sortpart12.c_name}}</span>
+		</a>
+
+	</div>
+	<div class="sort-item-demo">
+		{{sortpart12Data.categorysInfos.son_category[4].title}}
+	</div>
+	<div class="sort-item-list">
+		<a ui-sref="sort.part" class="sort-item-listA" ng-repeat="sortpart12 in sortpart12Data.categorysInfos.son_category[4].categorys">
+				<img ng-src="{{sortpart12.banner_image}}"/>
+				<span>{{sortpart12.c_name}}</span>
+		</a>
+
+	</div>
+</div>
+

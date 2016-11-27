@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html ng-app="projectDemo">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
+    <link rel="stylesheet" href="app/common/css/main.css" media="screen" title="no title">
+    <link rel="stylesheet" href="bower_components/swiper-3.3.1.min/swiper-3.3.1.min.css"/>
+    <script src="bower_components/angular/angular.min.js"></script>   
+		<script src="bower_components/angular/zepto.js"></script>
+		<script src="bower_components/angular/touch.js"></script>
+		
+		<script src="bower_components/angular/jquery-3.1.0.min.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+    <script src="bower_components/angular-css/angular-css.min.js"></script>
+    <script src="bower_components/swiper-3.3.1.min/swiper-3.3.1.min.js"></script>
+    <script src="bower_components/angular/scroll.js"></script>
+
+  </head>
+  <body>
+
+    <footer>
+      <ul>
+        <li ui-sref="home">
+          <a>
+            <img src="http://img.miyabaobei.com/d1/p4/2016/09/18/fb/a0/fba006d51eb091cf3b63299c59d5e38c813134250.png">
+          </a>
+        </li>
+        <li ui-sref="sort.part1">
+          <a>
+            <img src="http://img.miyabaobei.com/d1/p5/2016/09/18/90/f1/90f1f82889b47a8de835621452eed22e790295573.png">
+          </a>
+        </li>
+        <li ui-sref="cart">
+          <a>
+            <img src="http://img.miyabaobei.com/d1/p4/2016/09/18/88/4e/884e4655e40f2c8e0ad9463a52de7546790508785.png">
+          </a>
+        </li>
+        <li ui-sref="mine">
+          <a>
+            <img src="http://img.miyabaobei.com/d1/p5/2016/09/18/83/b5/83b56a7715f4c3184b5fc141a6a66435790687263.png">
+          </a>
+        </li>
+        <li>
+          <a>
+            <img src="http://img.miyabaobei.com/d1/p4/2016/11/14/d6/ec/d6ec0d5ce8709a1fd6e64835e1b7b332184754376.png">
+          </a>
+        </li>
+      </ul>
+    </footer>
+    
+    <div id="allo" ui-view></div>
+
+    <script src="./app/app.js"></script>
+    <script src="app/pages/home/home.js"></script>
+		<!--<script src="app/pages/home/milkhome/milkhome.js"></script>-->
+    <script src="app/pages/cart/cart.js"></script>
+    <script src="app/pages/mine/mine.js"></script>
+    <script src="app/pages/sort/sort.js"></script>
+    
+    <script src="app/pages/sort/sort.part1/sort.part1service.js"></script>
+    <script src="app/pages/sort/sort.part1/sort.part1.js"></script>
+    
+    <!--<script src="app/pages/sort/sort.part1/detailPage/detailPageservice.js.js"></script>-->
+    
+    <script src="app/pages/sort/sort.part2/sort.part2service.js"></script>
+    <script src="app/pages/sort/sort.part2/sort.part2.js"></script>
+    
+    <script src="app/pages/sort/sort.part3/sort.part3service.js"></script>
+    <script src="app/pages/sort/sort.part3/sort.part3.js"></script>
+    
+    <script src="app/pages/sort/sort.part4/sort.part4service.js"></script>
+    <script src="app/pages/sort/sort.part4/sort.part4.js"></script>
+    
+    <script src="app/pages/sort/sort.part5/sort.part5service.js"></script>
+    <script src="app/pages/sort/sort.part5/sort.part5.js"></script>
+    
+    
+    <script src="app/pages/sort/sort.part6/sort.part6service.js"></script>
+    <script src="app/pages/sort/sort.part6/sort.part6.js"></script>
+    
+    <script src="app/pages/sort/sort.part7/sort.part7service.js"></script>
+    <script src="app/pages/sort/sort.part7/sort.part7.js"></script>
+    
+    <script src="app/pages/sort/sort.part8/sort.part8service.js"></script>
+    <script src="app/pages/sort/sort.part8/sort.part8.js"></script>
+    
+    <script src="app/pages/sort/sort.part9/sort.part9service.js"></script>
+    <script src="app/pages/sort/sort.part9/sort.part9.js"></script>
+    
+    <script src="app/pages/sort/sort.part10/sort.part10service.js"></script>
+    <script src="app/pages/sort/sort.part10/sort.part10.js"></script>
+    
+    <script src="app/pages/sort/sort.part11/sort.part11service.js"></script>
+    <script src="app/pages/sort/sort.part11/sort.part11.js"></script>
+    
+    <script src="app/pages/sort/sort.part12/sort.part12service.js"></script>
+    <script src="app/pages/sort/sort.part12/sort.part12.js"></script>
+    
+    <script src="app/pages/sort/sort.part13/sort.part13service.js"></script>
+    <script src="app/pages/sort/sort.part13/sort.part13.js"></script>
+    <script>
+      document.documentElement.style.fontSize=innerWidth/10+"px";
+        window.onresize=function(){
+          document.documentElement.style.fontSize=innerWidth/10+"px";
+        }
+    </script>    
+  </body>
+</html>

@@ -1,0 +1,193 @@
+{
+    "status": 1,
+    "categorysInfos": {
+        "total": "17",
+        "son_category": [
+            {
+                "title": "出国必buy的家居品",
+                "url": "",
+                "type": "banner",
+                "categorys": [
+                    {
+                        "p_id": "1126",
+                        "c_id": "0",
+                        "c_type": "defined",
+                        "c_name": "家居生活",
+                        "url": "http://m.mia.com/special/module/index/6134/wap/",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/11/11/43/e2/43e27529d138181e6bbffacb1c777f25786792764.jpg",
+                        "tags_id": "74",
+                        "is_bonded": "0",
+                        "is_url_display": 1
+                    }
+                ]
+            },
+            {
+                "title": "家居生活",
+                "url": "",
+                "type": "defined",
+                "categorys": [
+                    {
+                        "p_id": "1626",
+                        "c_id": "375",
+                        "c_type": "category",
+                        "c_name": "毛巾/浴巾",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/09/30/72/4b/724b66e077fa299b31055aacb6283ea9163909631.jpg?rand=1475216387410",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1624",
+                        "c_id": "141",
+                        "c_type": "category",
+                        "c_name": "枕头/枕巾",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/08/30/0a/99/0a997ed60599762e6b2dedcb52ba4a16501489577.jpg?rand=1472550148468",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1625",
+                        "c_id": "143",
+                        "c_type": "category",
+                        "c_name": "床上用品",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p5/2016/08/30/c0/cc/c0ccba638d1a7547da3752e2931e8571501828089.jpg?rand=1472550185529",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1369",
+                        "c_id": "174",
+                        "c_type": "category",
+                        "c_name": "家居纸品",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/08/30/43/b9/43b9ac438935c7faea40c69133c33468502826285.jpg?rand=1472550282228",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1376",
+                        "c_id": "254",
+                        "c_type": "category",
+                        "c_name": "水具",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/08/30/f0/d3/f0d370200ae4a2694ef12e541b7b7325503385818.jpg?rand=1472550339078",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1365",
+                        "c_id": "192",
+                        "c_type": "category",
+                        "c_name": "个护电器",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/08/30/cb/29/cb294e7b1b39bae24885f366b8a1dfe9503119827.jpg?rand=1472550311210",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1373",
+                        "c_id": "147",
+                        "c_type": "category",
+                        "c_name": "厨房小件",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/08/30/3f/39/3f39a220befcee6942f3bedcf40f9c6e502557359.jpg?rand=1472550255714",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1371",
+                        "c_id": "142",
+                        "c_type": "category",
+                        "c_name": "锅具",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p5/2016/08/30/7b/8f/7b8ff55320d6645de6e7c576edd5d60e501652686.jpg?rand=1472550165752",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1372",
+                        "c_id": "193",
+                        "c_type": "category",
+                        "c_name": "厨房电器",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p5/2016/08/30/6e/da/6eda115d930010581ebb74820b8f9334503279177.jpg?rand=1472550327260",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1374",
+                        "c_id": "145",
+                        "c_type": "category",
+                        "c_name": "家庭清洁",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p5/2016/08/30/74/4d/744d823455f3ba068dff3e584fa0dc1b502388674.jpg?rand=1472550239147",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1622",
+                        "c_id": "190",
+                        "c_type": "category",
+                        "c_name": "收纳用品",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p5/2016/11/22/b9/2c/b92cd47bfaa85891f09f5a19b7ceb2a3070763339.jpg?rand=1479807093981",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1623",
+                        "c_id": "372",
+                        "c_type": "category",
+                        "c_name": "内衣/家居服",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p5/2016/11/22/08/92/08929c407693791380ef5c3939047f57070949435.jpg?rand=1479807111443",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1621",
+                        "c_id": "138",
+                        "c_type": "category",
+                        "c_name": "拖鞋",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/11/22/45/5a/455a282e7a87af126227eb5242e785df071086812.jpg?rand=1479807125846",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1377",
+                        "c_id": "144",
+                        "c_type": "category",
+                        "c_name": "生活电器",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p5/2016/08/30/58/d7/58d7b3c1f686cb4b61c33a74fe3d5fb1501994658.jpg?rand=1472550199932",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1370",
+                        "c_id": "151",
+                        "c_type": "category",
+                        "c_name": "居家杂件",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/08/30/f5/ec/f5eccad12d47511ee9ed874de072ae81502697616.jpg?rand=1472550269361",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    },
+                    {
+                        "p_id": "1375",
+                        "c_id": "191",
+                        "c_type": "category",
+                        "c_name": "出行箱包/伞",
+                        "url": "",
+                        "banner_image": "http://img04.miyabaobei.com/d1/p4/2016/08/30/6c/8d/6c8de72896eceaae16f83f5771d1f3bd503549134.jpg?rand=1472550354960",
+                        "tags_id": "40",
+                        "is_bonded": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}
